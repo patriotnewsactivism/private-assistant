@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live Assistant",
+  "description": "A professional, always-on voice assistant powered by Gemini 2.5 Native Audio Live API for real-time, low-latency conversational intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
